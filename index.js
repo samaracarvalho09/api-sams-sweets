@@ -1,11 +1,15 @@
 const express = require('express');
 const app = express();
+const cors = require('cors');
+
 const port = process.env.PORT || 3000;
 
 const products = require('./src/products/products.json');
 
+app.use(cors());
+
 app.get("/products", (_, res) => {
-  return res.json(products);
+  return res.json({products: products});
 });
 
 
