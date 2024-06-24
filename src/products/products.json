@@ -1,0 +1,63 @@
+ [
+    {
+      "id": 1,
+      "name": "Tiramisù",
+      "origin": "Italiana",
+      "price": 18.50,
+      "main_ingredients": ["Mascarpone", "Café", "Biscoitos Champagne", "Cacau em pó"],
+      "description": "Uma clássica sobremesa italiana com camadas de mascarpone e café.",
+      "allergens": ["Lactose", "Ovos"],
+      "calories": 450
+    },
+    {
+      "id": 2,
+      "name": "Brigadeiro",
+      "origin": "Brasileira",
+      "price": 2.00,
+      "main_ingredients": ["Leite condensado", "Chocolate em pó", "Manteiga", "Granulado de chocolate"],
+      "description": "Docinho brasileiro feito com leite condensado e chocolate.",
+      "allergens": ["Lactose"],
+      "calories": 100
+    },
+    {
+      "id": 3,
+      "name": "Crème Brûlée",
+      "origin": "Francesa",
+      "price": 22.00,
+      "main_ingredients": ["Creme de leite", "Gemas", "Açúcar", "Baunilha"],
+      "description": "Sobremesa francesa com uma camada de açúcar queimado por cima.",
+      "allergens": ["Lactose", "Ovos"],
+      "calories": 300
+    },
+    {
+      "id": 4,
+      "name": "Churros",
+      "origin": "Mexicana",
+      "price": 8.00,
+      "main_ingredients": ["Farinha de trigo", "Água", "Açúcar", "Canela"],
+      "description": "Massa frita coberta com açúcar e canela, geralmente acompanhada de doce de leite.",
+      "allergens": ["Glúten"],
+      "calories": 350
+    },
+    {
+      "id": 5,
+      "name": "Cheesecake",
+      "origin": "Americana",
+      "price": 25.00,
+      "main_ingredients": ["Queijo cremoso", "Biscoitos", "Açúcar", "Ovos"],
+      "description": "Sobremesa americana com base de biscoito e recheio de queijo cremoso.",
+      "allergens": ["Lactose", "Glúten", "Ovos"],
+      "calories": 400
+    },
+    {
+      "id": 6,
+      "name": "Mochi",
+      "origin": "Japonesa",
+      "price": 15.00,
+      "main_ingredients": ["Arroz glutinoso", "Açúcar", "Recheios variados"],
+      "description": "Bolinhos de arroz glutinoso com recheios doces variados.",
+      "allergens": ["Glúten"],
+      "calories": 150
+    }
+  ]
+

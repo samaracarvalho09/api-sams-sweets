@@ -1,0 +1,12 @@
+{
+  "name": "api-sams-sweeets",
+  "version": "1.0.0",
+  "main": "index.js",
+
+  "srcripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
